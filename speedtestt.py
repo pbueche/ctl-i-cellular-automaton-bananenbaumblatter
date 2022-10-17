@@ -10,7 +10,7 @@ print("\nNote: If it freezes: Stop execution by clicking on the red square (top 
 answer = input("Are you running vscode [y/n]?")
 
 if any(answer.lower() == f for f in ["yes","y"]):
-    print("excellent")
+    print("excellent")# akjdf
 else:
     print("Please start vscode. Open your GitHub classroom in vscode. Add a new file speedtestt.py and paste the present file content into it. Save the file, and start it again.")
     sys.exit()
