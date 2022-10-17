@@ -47,5 +47,5 @@ text_file.close()
 print("\nBy now, you should have created a new file named "+filename+" in your current folder. Check, if it exists.")
 print("If so, delete speedtestt.py and afterwards commit your change to upload the new "+filename+" to your GitHub repository.")
 print("Once this lecture is over, you can also remove the answer*.txt files from your directory.")
-#geändert
+#geändert4tg
 #ädnerungen
